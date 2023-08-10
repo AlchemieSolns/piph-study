@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "piph-study/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
